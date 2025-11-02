@@ -15,3 +15,4 @@ jobs:
           packsquash_version: latest # Uses the latest PackSquash release supported by the action
           options: |
             allow_mods = ['OptiFine']
+            pack_directory = '.'
