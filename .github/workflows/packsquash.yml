@@ -17,5 +17,5 @@ jobs:
             allow_mods = ['OptiFine']
             pack_directory = '.'
             
-            [**/colormap/*.png]
+            ['**/colormap/*.png']
             downsize_if_single_color = false
