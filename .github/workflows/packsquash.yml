@@ -16,3 +16,4 @@ jobs:
           options: |
             allow_mods = ['OptiFine']
             pack_directory = '.'
+            automatic_minecraft_quirks_detection = false
